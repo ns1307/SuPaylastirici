@@ -1,16 +1,7 @@
-# untitled1
+Türkçe:
 
-A new Flutter project.
+Yeni inşa edilen apartmanlarda, su sayaçlarının bireysel olarak ayrılmamış olması, sakinler arasında tek bir fatura üzerinden su tüketiminin paylaşılmasına yol açmaktadır. Bu durum, her dairenin su tüketimini adil bir şekilde hesaplamayı zorlaştırır; zira, dairelerin toplam su tüketimi ile ortak faturada belirtilen miktar arasında sıklıkla tutarsızlıklar meydana gelmektedir. Bu sorunun üstesinden gelmek için, her bir daireye düşen su tüketim miktarını adil bir şekilde dağıtmak amacıyla, tutarsızlıkların daireler arasında eşit bir şekilde paylaştırılmasını sağlayacak bir mobil uygulama geliştirdik. Bu uygulama, su tüketimini hesaplamak için manuel işlemleri azaltmayı ve süreci basitleştirmeyi amaçlamaktadır. Ayrıca, kullanıcıların her ay son endeksleri manuel olarak not almasına gerek kalmadan, bu bilgilerin telefonun hafızasında saklanmasını sağlar. Bu sayede, su tüketim hesaplamaları daha hızlı ve kolay bir şekilde yapılabilmektedir.
 
-## Getting Started
+English: 
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In newly constructed apartment buildings (in Türkiye), the lack of individual water meters results in residents sharing water consumption costs based on a single bill. This situation complicates the fair calculation of water consumption for each apartment, as there are often inconsistencies between the total water consumption of the apartments and the amount specified in the joint bill. To overcome this issue, we developed a mobile application designed to equitably distribute the water consumption amounts, including the inconsistencies, among the apartments. This application aims to reduce manual processes and simplify the calculation process. Additionally, it eliminates the need for users to manually note the final indexes each month by storing this information in the phone's memory. Thus, water consumption calculations can be performed more quickly and easily.
